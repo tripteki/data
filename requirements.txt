@@ -1,0 +1,12 @@
+toml>=0.10.2
+scheduler>=0.8.2
+SQLAlchemy>=1.4.46
+httpx>=0.23.3
+Scrapy>=2.7.1
+numpy>=1.24.1
+scipy>=1.10.0
+pandas>=1.5.2
+matplotlib>=3.6.2
+typer>=0.7.0
+rich>=13.0.0
+python-dotenv>=0.21.0
